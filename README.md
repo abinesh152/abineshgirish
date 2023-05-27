@@ -1,9 +1,8 @@
-# Hailee portfolio webpage
+# Abinesh Girish portfolio webpage
 
 A portfolio web site completely made in html css and js from ground up.
 
-#### Watch it live here - [hailee.netlify.app](https://hailee.netlify.app/)
-
+#### Watch it live here - 
 <br>
 
 ## This is how it looks
@@ -12,8 +11,8 @@ A portfolio web site completely made in html css and js from ground up.
 
 ### In dark mode
 
-![In dark mode](./preview/hailee-dark.png)
+![In dark mode](./preview/abi-dark.png)
 
 ### In light mode
 
-![In light mode](./preview/hailee-light.png)
+![In light mode](./preview/abi-light.png)
